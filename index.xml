@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>University of York Drone Society | DroneSoc</title>
-    <link>http://dronesoc.co.uk/</link>
+    <link>https://dronesoc.co.uk/</link>
     <description>Recent content on University of York Drone Society | DroneSoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 04 Sep 2016 15:28:53 +0100</lastBuildDate>
-    <atom:link href="http://dronesoc.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dronesoc.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Events</title>
-      <link>http://dronesoc.co.uk/events/</link>
+      <link>https://dronesoc.co.uk/events/</link>
       <pubDate>Sun, 04 Sep 2016 15:28:53 +0100</pubDate>
       
-      <guid>http://dronesoc.co.uk/events/</guid>
+      <guid>https://dronesoc.co.uk/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Membership</title>
-      <link>http://dronesoc.co.uk/membership/</link>
+      <link>https://dronesoc.co.uk/membership/</link>
       <pubDate>Fri, 02 Sep 2016 01:57:50 +0100</pubDate>
       
-      <guid>http://dronesoc.co.uk/membership/</guid>
+      <guid>https://dronesoc.co.uk/membership/</guid>
       <description>&lt;p&gt;To get access to our paid events you&amp;rsquo;ll need to buy a paid membership, this costs £7 for the year. This is to cover the cost of our society owned drones which you will be able to use at events.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>http://dronesoc.co.uk/resources/</link>
+      <link>https://dronesoc.co.uk/resources/</link>
       <pubDate>Fri, 02 Sep 2016 00:54:48 +0100</pubDate>
       
-      <guid>http://dronesoc.co.uk/resources/</guid>
+      <guid>https://dronesoc.co.uk/resources/</guid>
       <description>
 
 &lt;h2 id=&#34;youtube-channels&#34;&gt;YouTube Channels&lt;/h2&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>Committee</title>
-      <link>http://dronesoc.co.uk/committee/</link>
+      <link>https://dronesoc.co.uk/committee/</link>
       <pubDate>Thu, 01 Sep 2016 18:24:19 +0100</pubDate>
       
-      <guid>http://dronesoc.co.uk/committee/</guid>
+      <guid>https://dronesoc.co.uk/committee/</guid>
       <description></description>
     </item>
     
