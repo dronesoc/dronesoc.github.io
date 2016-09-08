@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memberships on University of York Drone Society | DroneSoc</title>
+    <link>http://dronesoc.co.uk/membership/</link>
+    <description>Recent content in Memberships on University of York Drone Society | DroneSoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 02 Sep 2016 01:57:50 +0100</lastBuildDate>
+    <atom:link href="http://dronesoc.co.uk/membership/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Membership</title>
+      <link>http://dronesoc.co.uk/membership/</link>
+      <pubDate>Fri, 02 Sep 2016 01:57:50 +0100</pubDate>
+      
+      <guid>http://dronesoc.co.uk/membership/</guid>
+      <description>&lt;p&gt;To get access to our paid events you&amp;rsquo;ll need to buy a paid membership, this costs £7 for the year. This is to cover the cost of our society owned drones which you will be able to use at events.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
