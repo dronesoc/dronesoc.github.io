@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Georgia', sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -19,7 +19,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 300;
   color: #222;
 }
 
@@ -43,7 +44,7 @@ a {
   max-width: 800px;
   margin: 0 auto;
   padding: 0 15px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
   text-align: right;
 }
 
@@ -326,12 +327,19 @@ a {
   margin-bottom: 50px;
 }
 
-.bios div.bio-role {
+.bios div.bio>.details {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.bios div.bio>.details>.role {
   color: #888;
   font-family: 'Lato', sans-serif;
 }
 
-.bios .bio-image {
+.bios div.bio>img {
+  vertical-align: middle;
   border-radius: 50%;
   width: 100px;
   height: 100px;
