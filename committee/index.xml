@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Committees on University of York Drone Society | DroneSoc</title>
+    <title>Committee on University of York Drone Society</title>
     <link>https://dronesoc.co.uk/committee/</link>
-    <description>Recent content in Committees on University of York Drone Society | DroneSoc</description>
+    <description>Recent content in Committee on University of York Drone Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Sep 2016 18:24:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2016 14:39:54 +0100</lastBuildDate>
     <atom:link href="https://dronesoc.co.uk/committee/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Committee</title>
-      <link>https://dronesoc.co.uk/committee/</link>
-      <pubDate>Thu, 01 Sep 2016 18:24:19 +0100</pubDate>
+      <title>Jashan Bhoora</title>
+      <link>https://dronesoc.co.uk/committee/jashan/</link>
+      <pubDate>Mon, 12 Sep 2016 14:39:54 +0100</pubDate>
       
-      <guid>https://dronesoc.co.uk/committee/</guid>
-      <description></description>
+      <guid>https://dronesoc.co.uk/committee/jashan/</guid>
+      <description>&lt;p&gt;Jashan is your treasurer. He is currently in his 4th year, studying Computer Science with Embedded Systems. He&amp;rsquo;s had an interest in remote control stuff for a while, but only really got into it when he designed and built his first quadcopter a couple of years ago. He&amp;rsquo;s interested in 3D printing (which is how he built his first quad!), and more generally anything that incorporates technology and moves&amp;hellip; the latest example of this being Robot Wars, in which he was lucky enough to &lt;a href=&#34;http://www.infernalcontraption.co.uk&#34;&gt;participate in the new series&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sean Duffy</title>
+      <link>https://dronesoc.co.uk/committee/sean/</link>
+      <pubDate>Mon, 12 Sep 2016 14:39:50 +0100</pubDate>
+      
+      <guid>https://dronesoc.co.uk/committee/sean/</guid>
+      <description>&lt;p&gt;Sean is a fourth year student studying Computer Science MEng. He became interested in drones a few years ago after watching videos by &lt;a href=&#34;https://www.youtube.com/user/flitetest&#34;&gt;Flite Test&lt;/a&gt; and now owns a total of six quadcopters, three of which were self-built. You can see some of his drone-related adventures on his &lt;a href=&#34;https://www.youtube.com/channel/UC6WZ_1nNi4fiK7X7NN0_wBA&#34;&gt;YouTube Channel&lt;/a&gt;. His favourite drone pilot is &lt;a href=&#34;https://www.youtube.com/watch?v=VKIxOhfoGM0&#34;&gt;Mr Steele&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sam Willcocks</title>
+      <link>https://dronesoc.co.uk/committee/samw/</link>
+      <pubDate>Mon, 12 Sep 2016 14:26:05 +0100</pubDate>
+      
+      <guid>https://dronesoc.co.uk/committee/samw/</guid>
+      <description>&lt;p&gt;Sam is the first president of DroneSoc, which he maintains seemed like a good idea at the time. When he&amp;rsquo;s not flying he studies Computer Science, juggles a multitude of hare-brained programming and electronics projects, and tries to keep the technology from exploding at &lt;a href=&#34;https://ystv.co.uk&#34;&gt;YSTV&lt;/a&gt;. His favourite text editor is Vim, and he is a big fan of third person biographies. He can be found on &lt;a href=&#34;https://twitter.com/swlcx&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
