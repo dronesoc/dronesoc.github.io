@@ -137,7 +137,7 @@ a {
 
 .article-content a {
   text-decoration: none;
-  color: inherit;
+  color: #5786c1;
   background: transparent;
   transition: background 150ms ease;
 }
