@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>University of York Drone Society</title>
-    <link>https://dronesoc.co.uk/</link>
+    <link>https://dronesoc.co.uk/index.xml</link>
     <description>Recent content on University of York Drone Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
@@ -106,12 +106,6 @@ DSMX compatible transmitter you can buy the BNF version.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/xLive2Fly&#34;&gt;FPV Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;beginner-guides&#34;&gt;Beginner Guides&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://oscarliang.com/quadcopter-tutorial-how-to-fly-drone/&#34;&gt;Quadcopter Beginner Guide by Oscar Liang&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h2 id=&#34;simulators&#34;&gt;Simulators&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -151,9 +145,11 @@ DSMX compatible transmitter you can buy the BNF version.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://makeitbuildit.co.uk&#34;&gt;MakeItBuildIt&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.dronebit.co.uk/&#34;&gt;DroneBit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.dronesuperstore.co.uk&#34;&gt;Drone Superstore&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dronesuperstore.co.uk&#34;&gt;i-Drone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.i-drone.co.uk&#34;&gt;i-Drone&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.dronejunkie.co.uk&#34;&gt;Drone Junkie&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.fossilsstuff.com&#34;&gt;Fossils Stuff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shop.neofpv.com&#34;&gt;Neo FPV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unmannedtechshop.co.uk&#34;&gt;Unmanned Tech&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;safety-the-law&#34;&gt;Safety &amp;amp; The Law&lt;/h2&gt;
