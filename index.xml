@@ -6,8 +6,18 @@
     <description>Recent content on University of York Drone Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 12 Sep 2016 14:39:54 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2017 14:26:05 +0100</lastBuildDate>
     <atom:link href="https://dronesoc.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Freddie Eglese</title>
+      <link>https://dronesoc.co.uk/committee/freddie/</link>
+      <pubDate>Sun, 12 Mar 2017 14:26:05 +0100</pubDate>
+      
+      <guid>https://dronesoc.co.uk/committee/freddie/</guid>
+      <description>&lt;p&gt;Freddie is a 1st year Computer Science student. Entering the world of RC through Mardave V12 cars 7 years ago, in the last 5 years he has progressed the to the skies and now mainly flys quadcopters, helicopters and planes. He has built planes in the past and has now built his own race quad. His videos can be found on &lt;a href=&#34;https://www.youtube.com/channel/UCNufjZgb2WA0I1l3Sv-3SAw&#34;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jashan Bhoora</title>
@@ -26,16 +36,6 @@
       
       <guid>https://dronesoc.co.uk/committee/sean/</guid>
       <description>&lt;p&gt;Sean is a fourth year student studying Computer Science MEng. He became interested in drones a few years ago after watching videos by &lt;a href=&#34;https://www.youtube.com/user/flitetest&#34;&gt;Flite Test&lt;/a&gt; and now owns a total of six quadcopters, three of which were self-built. You can see some of his drone-related adventures on his &lt;a href=&#34;https://www.youtube.com/channel/UC6WZ_1nNi4fiK7X7NN0_wBA&#34;&gt;YouTube Channel&lt;/a&gt;. His favourite drone pilot is &lt;a href=&#34;https://www.youtube.com/watch?v=VKIxOhfoGM0&#34;&gt;Mr Steele&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sam Willcocks</title>
-      <link>https://dronesoc.co.uk/committee/samw/</link>
-      <pubDate>Mon, 12 Sep 2016 14:26:05 +0100</pubDate>
-      
-      <guid>https://dronesoc.co.uk/committee/samw/</guid>
-      <description>&lt;p&gt;Sam is the first president of DroneSoc, which he maintains seemed like a good idea at the time. When he&amp;rsquo;s not flying he studies Computer Science, juggles a multitude of hare-brained programming and electronics projects, and tries to keep the technology from exploding at &lt;a href=&#34;https://ystv.co.uk&#34;&gt;YSTV&lt;/a&gt;. His favourite text editor is Vim, and he is a big fan of third person biographies. He can be found on &lt;a href=&#34;https://twitter.com/swlcx&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -150,6 +150,7 @@ DSMX compatible transmitter you can buy the BNF version.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.fossilsstuff.com&#34;&gt;Fossils Stuff&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://shop.neofpv.com&#34;&gt;Neo FPV&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.unmannedtechshop.co.uk&#34;&gt;Unmanned Tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://droneroom.co.uk/index.php&#34;&gt;Drone Room&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;safety-the-law&#34;&gt;Safety &amp;amp; The Law&lt;/h2&gt;
